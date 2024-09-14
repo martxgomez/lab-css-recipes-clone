@@ -21,4 +21,18 @@ body {
 }
 
 /* STYLES */
-/* Write your CSS below */
+
+.header{
+  background-image:url("../images/apple-pie.jpg");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1{
+  color: white;
+  text-align: center;
+}
